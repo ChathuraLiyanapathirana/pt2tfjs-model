@@ -1,4 +1,4 @@
-# License Plate Detector
+# PT to TFJS Model Converter
 
 This repository contains a Python application that uses YOLO to detect license plates and exports the model to various formats including ONNX and TensorFlow.js.
 
